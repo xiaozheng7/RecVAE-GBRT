@@ -22,7 +22,7 @@ def main():
     parser.add_argument('--z_size', type=int, default=7, 
                     help='hidden state size of RecVAE, h')
                      
-    parser.add_argument('-input_size', '--input_size', type=int, default=24 + 2 * 11, 
+    parser.add_argument('-input_size', '--input_size', type=int, default=24 + 2 * 7, 
                         help='input demension of RecVAE, s+h+h')
 
     parser.add_argument('--cuda', type=bool, default=True, 
