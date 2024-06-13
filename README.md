@@ -3,7 +3,7 @@
 Implementation of RecVAE-GBRT. Accepted by IEEE WCCI 2024/IJCNN 2024.
 
 <p align="center">
-<img src=".\image\results.png" height = "360" alt="" align=center />
+<img src=".\image\results.png" height = "480" alt="" align=center />
 <br><br>
-Accuracy comparison.
+<b>Figure 1.</b> Accuracy comparison.
 </p>
